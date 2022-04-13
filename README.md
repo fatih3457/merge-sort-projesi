@@ -6,3 +6,5 @@
 [8,11,12,16,21,22]
 
 Big-O => O(nlogn)
+
+https://app.patika.dev/fatihozcan
